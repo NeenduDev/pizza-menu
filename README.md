@@ -1,6 +1,8 @@
 # Fast React Pizza Co.
 
-![Project Screenshot](./localhost_3000_.png)
+Checkout the live Demo in [here](https://NeenduDev.github.io/pizza-menu).
+
+<!-- ![Project Screenshot](./localhost_3000_.png) -->
 
 ## Table of Contents
 
